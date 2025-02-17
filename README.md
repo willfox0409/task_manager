@@ -34,9 +34,9 @@ Things you may want to cover:
 
 These are the four fundamental operations for managing data in an application. In our case we are using Postman, which is a tool for making API requests, simulating how a frontend or other service would interact with our Rails backend. It helps you test your API endpoints by sending POST, GET, PATCH and DELETE requests to your rails app. Rails, which is the application manager, uses ActiveRecord to manipulate data in the database based on the requests received. 
 
-	- Postman = API request simulator
-	- Rails = Application manager
-	- PostgreSQL (or another DB) = Data storage 
+- Postman = API request simulator
+- Rails = Application manager
+- PostgreSQL (or another DB) = Data storage 
 
 2. Define MVC.
 
